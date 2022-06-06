@@ -1,4 +1,4 @@
-Hi 👋 My name is Harã Deuel
+Hi 👋 I'm Harã Deuel
 ===========================
 
 Computer Science Student
