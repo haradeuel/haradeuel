@@ -1,7 +1,7 @@
 Hi 👋 I'm Harã Deuel
 ===========================
 
-Computer Science Student
+Student 
 ------------------------
 
 * ✉️  You can contact me at [haradeuel@gmail.com](mailto:haradeuel@gmail.com)
